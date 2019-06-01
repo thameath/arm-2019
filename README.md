@@ -2,4 +2,4 @@
 
 This repository contains supplimental documentation for our posters at Academy Health's 2019 Annual Research Meeting.
 
-For more information, contact [Thomas Meath](meath@ohsu.edu))
+For more information, contact [Thomas Meath](meath@ohsu.edu).
